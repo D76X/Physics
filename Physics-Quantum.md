@@ -104,10 +104,10 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 
 ---
 
-# The Thomistic Institute]
+# The Thomistic Institute
 
 [Quantum Mechanics and the Principle of Non-Contradiction (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=qwxF7httROU&t=6s)  
-
+[Science Needs Interpretation (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=GQXOgp6fYdk)
 
 ---
 
