@@ -38,4 +38,23 @@ In physics, the key distinction is that an observer transformation is a change i
 
 - Example: A scientist conducts an experiment, then physically rotates the entire apparatus 90 degrees and repeats the experiment. If the outcome is the same, the system exhibits rotational symmetry. 
 
+> Key Relationship
+
+In standard theories, like special relativity in a vacuum, observer and particle transformations are simply the inverse of each other and are often used interchangeably to express symmetry principles. 
+
+> The Role of Symmetry Violation
+
+The distinction becomes crucial in theories that violate fundamental symmetries, such as theories that explore Lorentz violation (like the Standard-Model Extension, or SME). 
+
+In these cases: 
+
+-Observer symmetry is always expected: A mere change in coordinates can never change the underlying physics.
+-Particle symmetry can be broken: The theory might include a fixed background field that pervades the universe. If you physically rotate your experiment relative to this fixed background field (a particle transformation), you might detect a measurable effect, which would not happen if the universe had perfect rotational symmetry. 
+
 ---
+
+# Canonical Transormations leading to Dirac's formulation of quantum mechanics
+
+# Hamilton-Jacobi theori leading to Schrödinger equation
+
+# Action-ANgle variables leading to Bohr-Kramer's quantization rule
