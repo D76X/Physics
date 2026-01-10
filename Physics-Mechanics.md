@@ -1,5 +1,9 @@
 # Physics-Mechanics
 
+
+
+[Lagrangian Mechanics: when theoretical physics got real Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=QbnkIdw0HJQ&list=PL_UV-wQj1lvX-6uNvdvOHOopu4WZ_dE5w&index=1)  
+
 [Lagrangian's Mechanics - Physics with Elliot - Playlist](https://www.youtube.com/playlist?list=PL-IZN8QRUw-xRsoJPtXBlJyWlWrjVEF0x)
 [Explaining the Principle of Least Action: Physics Mini Lesson Physics with Elliot](https://www.youtube.com/watch?v=sUk9y23FPHk)  
 [Symmetries & Conservation Laws: A (Physics) Love Story Physics with Elliot](https://www.youtube.com/watch?v=O0NYaO_OnH4&list=PL-IZN8QRUw-xRsoJPtXBlJyWlWrjVEF0x&index=3)  
@@ -55,6 +59,14 @@ In these cases:
 
 # Canonical Transormations leading to Dirac's formulation of quantum mechanics
 
+[Lecture 19: Canonical Transformations - Sasha Tchekhovskoy](https://www.youtube.com/watch?v=ADk5igbjQVg)
+
+---
+
 # Hamilton-Jacobi theori leading to Schrödinger equation
 
+---
+
 # Action-ANgle variables leading to Bohr-Kramer's quantization rule
+
+---
