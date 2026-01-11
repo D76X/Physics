@@ -57,6 +57,33 @@ In these cases:
 
 ---
 
+# Hamilton's Principle aka Principle of Least Action
+
+Hamilton's principle, also known as the **Principle of Least Action**, states that the actual path a physical system takes between two points in space and time is the one where the "action" (the integral of the Lagrangian, \(L=T-V\), over time) is stationary (usually a minimum). Instead of minimizing total energy, it finds the path that extremizes the integral of kinetic energy minus potential energy, leading to the system's equations of motion via calculus of variations, offering a powerful alternative to Newtonian mechanics. 
+
+> Key Concepts: 
+
+- Lagrangian (L): The difference between the system's kinetic energy (\(T\)) and potential energy (\(V\)).
+- Action (S): The time integral of the Lagrangian, \(S=\int _{t_{1}}^{t_{2}}L\,dt\).
+- Stationary Path: The actual path followed by the system is where the action is an extremum (minimum, maximum, or saddle point).- Calculus of Variations: Applying variational calculus to the action functional (setting the variation of the action, \(\delta S\), to zero) yields the Euler-Lagrange equations, which describe the system's dynamics. 
+
+> In simpler terms:
+
+Imagine a ball rolling down a hill. There are countless paths it could take from point A to point B. Hamilton's principle says the ball will follow the specific path that makes the total "action" (kinetic energy minus potential energy over time) an extremum, often the minimum, compared to any nearby, slightly different paths. 
+
+> Significance:
+
+- **Provides a unified framework for classical mechanics, relativity, and quantum mechanics.**
+- Derives the equations of motion (like Lagrange's equations) from a single principle, making it powerful for complex systems.
+- Highlights the underlying mathematical symmetry and conservation laws (like energy and momentum) in physics. 
+
+
+[Why the Principle of Least Action?](https://physics.stackexchange.com/questions/15899/why-the-principle-of-least-action)  
+
+
+
+---
+
 # Canonical Transormations leading to Dirac's formulation of quantum mechanics
 
 [Lecture 19: Canonical Transformations - Sasha Tchekhovskoy](https://www.youtube.com/watch?v=ADk5igbjQVg)
