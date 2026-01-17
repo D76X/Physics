@@ -3,12 +3,13 @@
 
 
 [Lagrangian Mechanics: when theoretical physics got real Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=QbnkIdw0HJQ&list=PL_UV-wQj1lvX-6uNvdvOHOopu4WZ_dE5w&index=1)  
+[Phase Space: the geometry of Hamiltonian mechanics Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=IVQRfHAgLxk&t=17s)
 
 [Lagrangian's Mechanics - Physics with Elliot - Playlist](https://www.youtube.com/playlist?list=PL-IZN8QRUw-xRsoJPtXBlJyWlWrjVEF0x)
 [Explaining the Principle of Least Action: Physics Mini Lesson Physics with Elliot](https://www.youtube.com/watch?v=sUk9y23FPHk)  
 [Symmetries & Conservation Laws: A (Physics) Love Story Physics with Elliot](https://www.youtube.com/watch?v=O0NYaO_OnH4&list=PL-IZN8QRUw-xRsoJPtXBlJyWlWrjVEF0x&index=3)  
 
-[Lagrangian vs Hamiltonian Mechanics Abide By Reason • 151k views](https://youtu.be/tpp1Ahmij_Q?si=b1cj1RhDmHDIRsmA)   
+[Lagrangian vs Hamiltonian Mechanics Abide By Reason](https://youtu.be/tpp1Ahmij_Q?si=b1cj1RhDmHDIRsmA)   
 [Lagrangian and Hamiltonian Mechanics in Under 20 Minutes: Physics Mini Lesson  Physics with Elliot](https://www.youtube.com/watch?v=0DHNGtsmmH8&list=PL-IZN8QRUw-zBECgfYLuDQ3qkWsXWAGhM) 
 
 ---
