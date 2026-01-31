@@ -2,6 +2,11 @@
 
 [Physics The Feynman Way](https://www.youtube.com/@PhysicsTheFeynmanWay)
 
+
+# Light
+
+[This is why light exists Sabine Hossenfelder](https://www.youtube.com/watch?v=0RcaL4LVlss)  
+
 ---
 
 # Time
