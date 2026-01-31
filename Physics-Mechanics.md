@@ -1,7 +1,5 @@
 # Physics-Mechanics
 
-
-
 [Lagrangian Mechanics: when theoretical physics got real Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=QbnkIdw0HJQ&list=PL_UV-wQj1lvX-6uNvdvOHOopu4WZ_dE5w&index=1)  
 [Phase Space: the geometry of Hamiltonian mechanics Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=IVQRfHAgLxk&t=17s)
 
@@ -11,6 +9,26 @@
 
 [Lagrangian vs Hamiltonian Mechanics Abide By Reason](https://youtu.be/tpp1Ahmij_Q?si=b1cj1RhDmHDIRsmA)   
 [Lagrangian and Hamiltonian Mechanics in Under 20 Minutes: Physics Mini Lesson  Physics with Elliot](https://www.youtube.com/watch?v=0DHNGtsmmH8&list=PL-IZN8QRUw-zBECgfYLuDQ3qkWsXWAGhM) 
+
+
+[I finally find least action principle satisfying Mathemaniac](https://www.youtube.com/watch?v=Ohrl3S2wcBU)  
+[Action principle: geometric and physical interpretation Gabriele Carcassi](https://www.youtube.com/watch?v=7M0BzJhw4wA)  
+[Geometric and physical interpretation of the action principle Gabriele Carcassi & Christine A. Aidala ](https://www.nature.com/articles/s41598-023-39145-y)  
+[Geometric and physical interpretation of the action principle Gabriele Carcassi, Christine A. Aidala](https://arxiv.org/abs/2208.06428)  
+
+There is an implicit assumption of deterministic evolution, so a state must evolve in a certain way given some initial conditions (qo, Po, to).
+This also means that if the physical system is governed by some differential equations, then it should be of at most 2nd-order. 
+Otherwise more initial conditions are necessary to uniquely determine subsequent evolution. 
+
+However, in principle a 4th-order equation can be recast into this framework by considering the coordinates `(q1, q2, p1, p2, t)`.
+though it isn't likely real-life physical systems can do that, due to something called `Ostrogradsky's instability`, even if there are ways to avoid it. 
+
+For more details on `Ostrogradsky's instability`:
+
+[Ostrogradsky instability - Wikipedia](https://en.wikipedia.org/wiki/Ostrogradsky_instability)  
+[Higher derivative theories with constraints : exorcising Ostrogradski’s ghost Tai-jun Chen,a,1 Matteo Fasiellob Eugene A. Lima,c Andrew J. Tolleyb](https://arxiv.org/pdf/1209.0583)  
+[Higher derivative theories with constraints : Exorcising Ostrogradski’s Ghost](https://www.ctc.cam.ac.uk/activities/cosmo2013/presentations/Tai-junChen.pdf)  
+[Are nonlocal Lagrangian systems fatally unstable?](https://arxiv.org/pdf/2403.19777)   
 
 ---
 
