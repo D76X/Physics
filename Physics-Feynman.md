@@ -15,7 +15,15 @@
 [Richard Feynman Explains Time Like You’ve Never Seen Before Insight Intelligence](https://www.youtube.com/watch?v=IZ6p9rLOdPM)  
 [Richard Feynman Explains Time Like You’ve Never Seen Before Physics The Feynman Way](https://www.youtube.com/watch?v=zUHtlXA1f-w&t=833s)  
 
+[Why Time Only Goes One Way Physics Explained](https://www.youtube.com/watch?v=oW1swU54CiM)  
+
 [The biggest misconception in Einstein's relativity FloatHeadPhysics](https://www.youtube.com/watch?v=F_eVrN8Z8gM&t=10s)  
+
+---
+
+# Teleportation
+
+[Teleportation Kills You (Here's Why Physics Proves It) Feynman Analysis](https://www.youtube.com/watch?v=flGu_eFxEcQ)  
 
 ---
 
@@ -37,6 +45,8 @@ meaning all observers agree on the elapsed proper time, **unlike coordinate time
 
 
 # Gauge Symmetry
+
+[What You're Never Told About Gauge Theory | Leonard Susskind - Susskind Explains the Universe](https://www.youtube.com/watch?v=eJCOVDB_b7g&t=23s)  
 
 ---
 
