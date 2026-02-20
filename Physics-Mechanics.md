@@ -1,5 +1,7 @@
 # Physics-Mechanics
 
+## Lagrangian and Hamiltonian Mechanics
+
 [Lagrangian Mechanics: when theoretical physics got real Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=QbnkIdw0HJQ&list=PL_UV-wQj1lvX-6uNvdvOHOopu4WZ_dE5w&index=1)  
 [Phase Space: the geometry of Hamiltonian mechanics Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=IVQRfHAgLxk&t=17s)
 
@@ -10,6 +12,9 @@
 [Lagrangian vs Hamiltonian Mechanics Abide By Reason](https://youtu.be/tpp1Ahmij_Q?si=b1cj1RhDmHDIRsmA)   
 [Lagrangian and Hamiltonian Mechanics in Under 20 Minutes: Physics Mini Lesson  Physics with Elliot](https://www.youtube.com/watch?v=0DHNGtsmmH8&list=PL-IZN8QRUw-zBECgfYLuDQ3qkWsXWAGhM) 
 
+---
+
+## Geometric and physical interpretation of The Action Principle
 
 [I finally find least action principle satisfying Mathemaniac](https://www.youtube.com/watch?v=Ohrl3S2wcBU)  
 [Action principle: geometric and physical interpretation Gabriele Carcassi](https://www.youtube.com/watch?v=7M0BzJhw4wA)  
@@ -29,6 +34,12 @@ For more details on `Ostrogradsky's instability`:
 [Higher derivative theories with constraints : exorcising Ostrogradski’s ghost Tai-jun Chen,a,1 Matteo Fasiellob Eugene A. Lima,c Andrew J. Tolleyb](https://arxiv.org/pdf/1209.0583)  
 [Higher derivative theories with constraints : Exorcising Ostrogradski’s Ghost](https://www.ctc.cam.ac.uk/activities/cosmo2013/presentations/Tai-junChen.pdf)  
 [Are nonlocal Lagrangian systems fatally unstable?](https://arxiv.org/pdf/2403.19777)   
+
+---
+
+## Canonical Transformations
+
+[Notes #43: Canonical Transformations JK0 View Shop](https://ko-fi.com/s/ff2bb92bb6)       
 
 ---
 
