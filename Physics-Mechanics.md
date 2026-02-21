@@ -3,6 +3,7 @@
 ## Lagrangian and Hamiltonian Mechanics
 
 [Lagrangian Mechanics: when theoretical physics got real Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=QbnkIdw0HJQ&list=PL_UV-wQj1lvX-6uNvdvOHOopu4WZ_dE5w&index=1)  
+
 [Phase Space: the geometry of Hamiltonian mechanics Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=IVQRfHAgLxk&t=17s)
 
 [Lagrangian's Mechanics - Physics with Elliot - Playlist](https://www.youtube.com/playlist?list=PL-IZN8QRUw-xRsoJPtXBlJyWlWrjVEF0x)
@@ -39,6 +40,7 @@ For more details on `Ostrogradsky's instability`:
 
 ## Canonical Transformations
 
+[Canonical Transformations - The bridge to quantum mechanics Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=wVqqj6N_7RA&t=192s)  
 [Notes #43: Canonical Transformations JK0 View Shop](https://ko-fi.com/s/ff2bb92bb6)       
 
 ---
