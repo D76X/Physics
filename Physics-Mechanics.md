@@ -36,6 +36,31 @@ For more details on `Ostrogradsky's instability`:
 [Higher derivative theories with constraints : Exorcising Ostrogradski’s Ghost](https://www.ctc.cam.ac.uk/activities/cosmo2013/presentations/Tai-junChen.pdf)  
 [Are nonlocal Lagrangian systems fatally unstable?](https://arxiv.org/pdf/2403.19777)   
 
+## Important Notes about the Action Principle
+
+### The assumption of Determinism and Reversibility of the System
+
+Determinism:
+
+From the physical point of view the assumption of a system being deterministic means 
+that for each choice of an initial condition s0 at time t0 of the system there is 
+exactly one possible end state s1 at any time t1 > t0.
+
+Reversibility:
+
+From the physical point of view the assumption of a system being reversible means 
+that for each choice of a state at any time t1 > t0 there exists  exactly one possible 
+state at a specific time t0 such that the system starting with the initial condition
+(s0, t0) ends in (s1,t1).
+
+This cab be intuitevely being represented in the **Extended State Space** as the fact
+that **for any choice of states (s0,t0) there exist at most one trajectory that connects them**.
+
+Equivalently said given any state (s,t) one and only one trajectory can transit though it. 
+
+This requirement and assumption can also be relaxed and still bring to the same conclusion in 
+the following sense.
+
 ---
 
 ## Canonical Transformations
