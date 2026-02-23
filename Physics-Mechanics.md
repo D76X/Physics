@@ -2,6 +2,8 @@
 
 ## Lagrangian and Hamiltonian Mechanics
 
+[Canonical Transformations: The bridge to quantum mechanics Dr. Jorge S. Diaz](https://youtu.be/wVqqj6N_7RA?si=nbItIJjtLDScYuxU)  
+
 [Lagrangian Mechanics: when theoretical physics got real Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=QbnkIdw0HJQ&list=PL_UV-wQj1lvX-6uNvdvOHOopu4WZ_dE5w&index=1)  
 
 [Phase Space: the geometry of Hamiltonian mechanics Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=IVQRfHAgLxk&t=17s)
