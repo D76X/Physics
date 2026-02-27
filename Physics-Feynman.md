@@ -5,8 +5,9 @@
 
 # Light
 
-[This is why light exists Sabine Hossenfelder](https://www.youtube.com/watch?v=0RcaL4LVlss)  
+["How Light Travels Without Moving: The Feynman Reality Check” Unveiling Science](https://www.youtube.com/watch?v=fZK6Amgi_o8)  
 [Why Light Doesn’t Move | Leonard Susskind Imagine The Universe](https://www.youtube.com/watch?v=JjNV3l2VdzI&t=81s)    
+[This is why light exists Sabine Hossenfelder](https://www.youtube.com/watch?v=0RcaL4LVlss)  
 
 ---
 
@@ -24,6 +25,7 @@
 # Teleportation
 
 [Teleportation Kills You (Here's Why Physics Proves It) Feynman Analysis](https://www.youtube.com/watch?v=flGu_eFxEcQ)  
+[Quantum Teleportation Exposes a Deeper Problem in Quantum Mechanics See the Pattern](https://www.youtube.com/watch?v=oqXBgdjC3Kc&t=22s)  
 
 ---
 

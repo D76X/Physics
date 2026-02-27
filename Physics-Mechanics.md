@@ -61,7 +61,22 @@ that **for any choice of states (s0,t0) there exist at most one trajectory that 
 Equivalently said given any state (s,t) one and only one trajectory can transit though it. 
 
 This requirement and assumption can also be relaxed and still bring to the same conclusion in 
-the following sense.
+the following sense. It can be assumed that the **divergenze of the displacement field S is zero**.
+Geometrically, this means that the surface integral of the displacement field for any choice of
+a close surface in its domain amounts to zero.\
+
+It can be proven that any vector field with divergence zero in a domain can always be expressed
+as the gradient of another vector field, which is said to be **the vector potential**.
+
+> IMPORTANT
+
+In  the derivation of the Action Principle from geometrical observation in the extended phase space,
+it is important to realize that the Hamiltonian Equations of motions become a consequence of the fact
+that under the given assumptions on the displacement field S, it can be expressed as a vector potential.
+This fact is what ultimately provides a concrete means of calculus of the possible trajectory in the 
+phase space of a sysstem given its initial condition. Therefore the Hamiltonian Equations of motions
+are the analytical equivalent of the geometrical idea of the Action Principle.
+
 
 ---
 
@@ -149,10 +164,13 @@ Imagine a ball rolling down a hill. There are countless paths it could take from
 
 ---
 
-# Hamilton-Jacobi theori leading to Schrödinger equation
+# Hamilton-Jacobi theory leading to Schrödinger equation
 
 ---
 
-# Action-ANgle variables leading to Bohr-Kramer's quantization rule
+# Action-Angle variables leading to Bohr-Kramer's quantization rule
 
 ---
+
+
+[The Born's Rule: How Born Discovered It Abide By Reason](https://www.youtube.com/watch?v=mmPqMwt18Hc&t=8s)  
