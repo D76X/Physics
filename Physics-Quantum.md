@@ -1,7 +1,5 @@
 # Summary & Formulas
 
-# Summary & Formulas
-
 [The Baker–Campbell–Hausdorff formula](https://en.wikipedia.org/wiki/Baker%E2%80%93Campbell%E2%80%93Hausdorff_formula) 
 
 [Gram-Schmidt Orthonormalization](https://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html) 
@@ -19,6 +17,11 @@
 ---
 
 # Authors
+
+## Gabriele Carcassi
+
+[What are quantum superpositions, really? Fundraiser Gabriele Carcassi](https://www.youtube.com/watch?v=VKz4HWr64Wk)  
+[Entropy is not disorder Gabriele Carcassi](https://youtu.be/oGhuEym_2vk?si=CwAYa16f73HmyKhT)  
 
 ---
 
