@@ -21,7 +21,10 @@
 ## Gabriele Carcassi
 
 [What are quantum superpositions, really? Fundraiser Gabriele Carcassi](https://www.youtube.com/watch?v=VKz4HWr64Wk)  
+
 [Entropy is not disorder Gabriele Carcassi](https://youtu.be/oGhuEym_2vk?si=CwAYa16f73HmyKhT)  
+
+[Geometric interpretation for all potentials (any dimensions!) Gabriele Carcassi](https://www.youtube.com/watch?v=-v93zTJW7P8&t=17s)   
 
 ---
 
