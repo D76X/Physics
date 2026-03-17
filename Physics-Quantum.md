@@ -334,6 +334,8 @@ It is one-half the distance between the crest and trough for a symmetric, linear
 
 [Why Time Only Goes One Way Physics Explained](https://www.youtube.com/watch?v=oW1swU54CiM)
 
+[Mass Increases with Speed… Right? Physics Explained](https://www.youtube.com/watch?v=RmhartBBfaw&t=12s)  
+
 [What is the Schrödinger Equation? A basic introduction to Quantum Mechanics](https://www.youtube.com/watch?v=2WPA1L9uJqo&t=1611s) 
 [The Dirac Equation: The Most Important Equation You’ve Never Heard Of](https://www.youtube.com/watch?v=upX1MmQwGBU&t=799s)   
 [The Dirac Equation: How Did One Equation Predict Antimatter and Spin?](https://www.youtube.com/watch?v=KdEZ-GOgZ3s&t=15s) 
