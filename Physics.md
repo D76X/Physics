@@ -17,3 +17,9 @@
 [The three-body problem and Quantum theory Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=i_3d_IGJW6A)   
 
 ---
+
+# [PhysicsExplained](https://www.youtube.com/@PhysicsExplainedVideos) 
+
+[How Do We Actually Know the Big Bang Happened? Physics Explained](https://www.youtube.com/watch?v=3qU-VHvZ_l8)
+
+---

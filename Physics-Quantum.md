@@ -345,7 +345,7 @@ It is one-half the distance between the crest and trough for a symmetric, linear
 [How Many Neutrons Can You Stack Before Reality Breaks?](https://www.youtube.com/watch?v=LEyS7-OK57I&t=575s) 
 
 ---
-# Abide by REason
+# Abide by Reason
 
 [Born Rule - How Max Born Discovered It Abide By Reason](https://www.youtube.com/watch?v=mmPqMwt18Hc)  
 [A Story Version of Bell's Theorem \- Abide By Reason](https://www.youtube.com/watch?v=gm8eVzngbW4)   
