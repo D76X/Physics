@@ -344,11 +344,19 @@ It is one-half the distance between the crest and trough for a symmetric, linear
 
 [How Many Neutrons Can You Stack Before Reality Breaks?](https://www.youtube.com/watch?v=LEyS7-OK57I&t=575s) 
 
+[The Action Principle: The One Principle That Explains All Physics - But Why? Physics Explained](https://www.youtube.com/watch?v=ax5Ne4liG6s&t=4s)  
+
 ---
 # Abide by Reason
 
 [Born Rule - How Max Born Discovered It Abide By Reason](https://www.youtube.com/watch?v=mmPqMwt18Hc)  
 [A Story Version of Bell's Theorem \- Abide By Reason](https://www.youtube.com/watch?v=gm8eVzngbW4)   
+
+---
+
+# Physics with Elliot
+
+[This function doesn't exist. So why is it everywhere in physics? Physics with Elliot](https://www.youtube.com/watch?v=eAkOrWJEWxk&t=1s)  
 
 ---
 
