@@ -9,6 +9,7 @@
 # Quantomekanik
 
 [Matrix der Quantenwelt • Operator • Kommutator • Heisenberg-Matrizen-Mechanik | Stefan Heusler Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=QdlWfMk5kPk)   
+[Quanten-Spin • Glücklicher Irrtum im Stern-Gerlach Experiment • vAzS (130) | Josef M. Gaßner Urknall, Weltall und das Lebe](https://youtu.be/JGj2Lf1q2vc?si=ldiythn_KXRuZ-xZ)
 
 ---
 # Relativität
