@@ -336,21 +336,27 @@ It is one-half the distance between the crest and trough for a symmetric, linear
 
 [Mass Increases with Speed… Right? Physics Explained](https://www.youtube.com/watch?v=RmhartBBfaw&t=12s)  
 
-[What is the Schrödinger Equation? A basic introduction to Quantum Mechanics](https://www.youtube.com/watch?v=2WPA1L9uJqo&t=1611s) 
-[The Dirac Equation: The Most Important Equation You’ve Never Heard Of](https://www.youtube.com/watch?v=upX1MmQwGBU&t=799s)   
-[The Dirac Equation: How Did One Equation Predict Antimatter and Spin?](https://www.youtube.com/watch?v=KdEZ-GOgZ3s&t=15s) 
+[What is the Schrödinger Equation? A basic introduction to Quantum Mechanics](https://www.youtube.com/watch?v=2WPA1L9uJqo&t=1611s)  
 
-[But What Actually Is a Particle? How Quantum Fields Shape Reality](https://youtu.be/KLIS4lq1mBE?si=fNVkRWYxbb2SQMF7) 
+[The Dirac Equation: The Most Important Equation You’ve Never Heard Of](https://www.youtube.com/watch?v=upX1MmQwGBU&t=799s)    
 
-[How Many Neutrons Can You Stack Before Reality Breaks?](https://www.youtube.com/watch?v=LEyS7-OK57I&t=575s) 
+[The Dirac Equation: How Did One Equation Predict Antimatter and Spin?](https://www.youtube.com/watch?v=KdEZ-GOgZ3s&t=15s)  
 
-[The Action Principle: The One Principle That Explains All Physics - But Why? Physics Explained](https://www.youtube.com/watch?v=ax5Ne4liG6s&t=4s)  
+[But What Actually Is a Particle? How Quantum Fields Shape Reality](https://youtu.be/KLIS4lq1mBE?si=fNVkRWYxbb2SQMF7)  
+
+[How Many Neutrons Can You Stack Before Reality Breaks?](https://www.youtube.com/watch?v=LEyS7-OK57I&t=575s)  
+
+[The Action Principle: The One Principle That Explains All Physics - But Why? Physics Explained](https://www.youtube.com/watch?v=ax5Ne4liG6s&t=4s)   
 
 ---
+
 # Abide by Reason
 
 [Born Rule - How Max Born Discovered It Abide By Reason](https://www.youtube.com/watch?v=mmPqMwt18Hc)  
+
 [A Story Version of Bell's Theorem \- Abide By Reason](https://www.youtube.com/watch?v=gm8eVzngbW4)   
+
+[The Most Misunderstood Concept in Math Abide By Reason](https://www.youtube.com/watch?v=triNEat764M&t=2s)  
 
 ---
 
