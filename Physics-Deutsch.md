@@ -9,16 +9,26 @@
 # Quantomekanik
 
 [Matrix der Quantenwelt • Operator • Kommutator • Heisenberg-Matrizen-Mechanik | Stefan Heusler Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=QdlWfMk5kPk)   
-[Quanten-Spin • Glücklicher Irrtum im Stern-Gerlach Experiment • vAzS (130) | Josef M. Gaßner Urknall, Weltall und das Lebe](https://youtu.be/JGj2Lf1q2vc?si=ldiythn_KXRuZ-xZ)
+
+[Quanten-Spin • Glücklicher Irrtum im Stern-Gerlach Experiment • vAzS (130) | Josef M. Gaßner Urknall, Weltall und das Lebe](https://youtu.be/JGj2Lf1q2vc?si=ldiythn_KXRuZ-xZ)  
 
 ---
 # Relativität
 
 [videowissen](https://www.youtube.com/@videowissen)  
+
 [Zeitdilatation: Zeit steht still?  Das Myonen Geheimnis der Relativität | Peter Kroll - videowissen](https://www.youtube.com/watch?v=MFebC_seClI&t=36s)  
 
 ---
 
 [7 Störende Fakten der Physik, die dein Weltbild zerstören | Richard Feynman Feynman  Klare Wissenschaft](https://www.youtube.com/watch?v=xvk3b-MBF-0&t=2s)  
+
+---
+
+# Grenzen des Wissens (Gerd Ganteför)
+
+[The Mystery of Dark Matter | Limits of Knowledge Grenzen des Wissens](https://www.youtube.com/watch?v=_PyJYlo7sws&t=67s)  
+
+[Wie konnte sich die Dunkle Materie so rasch abkühlen? | Grenzen des Wissens Grenzen des Wissens](https://www.youtube.com/watch?v=-VC81U8cVNM)    
 
 ---
