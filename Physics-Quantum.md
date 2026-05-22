@@ -106,7 +106,7 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 
 ## [Kathy Loves Physics](https://www.youtube.com/@Kathy_Loves_Physics) 
 
-[How Maxwell's Equations (and Quaternions) Led to Vector Analysis](https://www.youtube.com/watch?v=M12CJIuX8D4&t=518s) 
+[How 's Equations (and Quaternions) Led to Vector Analysis](https://www.youtube.com/watch?v=M12CJIuX8D4&t=518s) 
 
 ---
 

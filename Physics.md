@@ -23,3 +23,9 @@
 [How Do We Actually Know the Big Bang Happened? Physics Explained](https://www.youtube.com/watch?v=3qU-VHvZ_l8)
 
 ---
+
+# Maxwell Equations
+
+[How Maxwell's Equations Were Discovered Abide By Reason](https://www.youtube.com/watch?v=-hua8RWopfw)  
+
+---
