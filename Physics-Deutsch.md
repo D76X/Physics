@@ -4,6 +4,8 @@
 
 [Schrödingergleichung verstehen • Herleitung stationär / zeitabhängig • vAzS (126) | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=aQWoUUtKgtw)   
 
+[Grenzen, Fortschritte und Modelle • Simulationen in der Fusionsforschung | Hartmut Zohm Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=KNrOVUKt0Gk)  
+
 ---
 
 # Quantomekanik
