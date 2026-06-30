@@ -83,6 +83,8 @@ Tensor Product
 
 [Faraday's last experiment Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=dM5xWIsNbR4)   
 
+[Quantum before Planck Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=a-hga-X9aKo)    
+
 ---
 
 ## Matrix Formulation of Quantum Mechanics
@@ -171,6 +173,8 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 [How Many Neutrons Can You Stack Before Reality Breaks?](https://www.youtube.com/watch?v=LEyS7-OK57I&t=575s)  
 
 [The Action Principle: The One Principle That Explains All Physics - But Why? Physics Explained](https://www.youtube.com/watch?v=ax5Ne4liG6s&t=4s)   
+
+[What Are Electric and Magnetic Fields, Really? Physics Explained](https://www.youtube.com/watch?v=YqxrlunKCaU)  
 
 ---
 
