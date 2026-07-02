@@ -176,6 +176,10 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 
 [What Are Electric and Magnetic Fields, Really? Physics Explained](https://www.youtube.com/watch?v=YqxrlunKCaU)  
 
+[The Tiny Gap That Broke Electromagnetism Physics Explained](https://www.youtube.com/watch?v=wt1KJtD4Qh8)    
+
+[Why Can’t You Cut a Magnet in Half? Physics Explained](https://www.youtube.com/watch?v=YqxrlunKCaU&t=3s)  
+
 ---
 
 # Abide by Reason
