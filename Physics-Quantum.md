@@ -126,29 +126,34 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 
 ---
 
-## Experiments
+# Experiments
+
+# The double slit experiment
+
+[]()
+
 
 ---
 
-### Quantum Spin (Stern-Gerlach)
+# Quantum Spin (Stern-Gerlach)
 
 [Quantum Spin Isn’t What You Think \- See Why with Stern-Gerlach \- Qiskit](https://www.youtube.com/watch?v=pcGIBacW-q0) 
 
 ---
 
-### Zeeman Effect Experiment
+# Zeeman Effect Experiment
 
 [Zeeman Effect Experiment \- ZEX 01 \- SES Instruments Pvt Ltd.](https://www.youtube.com/watch?v=btBWg3cz7OA) 
 
 ---
 
-### Photoelectric Effect
+# Photoelectric Effect
 
 [The photoelectric effect  MIT OpenCourseWare](https://www.youtube.com/watch?v=byEaU9ILHmw) 
 
 ---
 
-### Mach-Zehnder interferometer
+# Mach-Zehnder interferometer
 
 [The nature of superposition. Mach-Zehnder interferometer](https://youtu.be/CR-eOhdxbes?si=DeWxWeKsjmdL9xvE) 
 
