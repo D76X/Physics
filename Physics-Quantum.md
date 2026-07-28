@@ -124,38 +124,7 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 [Quantum Mechanics and the Principle of Non-Contradiction (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=qwxF7httROU&t=6s)  
 [Science Needs Interpretation (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=GQXOgp6fYdk)
 
----
 
-# Experiments
-
-# The double slit experiment
-
-[]()
-
-
----
-
-# Quantum Spin (Stern-Gerlach)
-
-[Quantum Spin Isn’t What You Think \- See Why with Stern-Gerlach \- Qiskit](https://www.youtube.com/watch?v=pcGIBacW-q0) 
-
----
-
-# Zeeman Effect Experiment
-
-[Zeeman Effect Experiment \- ZEX 01 \- SES Instruments Pvt Ltd.](https://www.youtube.com/watch?v=btBWg3cz7OA) 
-
----
-
-# Photoelectric Effect
-
-[The photoelectric effect  MIT OpenCourseWare](https://www.youtube.com/watch?v=byEaU9ILHmw) 
-
----
-
-# Mach-Zehnder interferometer
-
-[The nature of superposition. Mach-Zehnder interferometer](https://youtu.be/CR-eOhdxbes?si=DeWxWeKsjmdL9xvE) 
 
 ---
 
@@ -227,6 +196,22 @@ Modernised [view on Heisenberg matrix mechanics \- **James Freericks**](https://
 
 ---
 
-# Experiments
+# Sabine Hossenfelder
 
-# Quantum Experiments
+[You probably misunderstand the double slit experiment Sabine Hossenfelder](https://www.youtube.com/watch?v=npc6Mn2CZV8&t=303s)  
+
+[Did they just break quantum physics?  Sabine Hossenfelder](https://www.youtube.com/watch?v=QBO531i5POM)   
+
+[Is the Universe Infinite or Finite? Sabine Hossenfelder](https://www.youtube.com/watch?v=SEvs4zgVr0E&t=348s)  
+
+[The Quantum Computer Dream is Falling Apart Sabine Hossenfelder](https://www.youtube.com/watch?v=N-9muK0mv5w) 
+
+[Physicists Just Linked This 160 Year-Old Math Problem To Black Holes Sabine Hossenfelder](https://www.youtube.com/watch?v=1YvOPoALVGY&t=123s)  
+
+[Gravity From Entropy? \- This Paper Might Change How We See Gravity,  Sabine Hossenfelder](https://www.youtube.com/watch?v=qNt2bhPS9ts&t=74s) 
+
+[This is why light exists Sabine Hossenfelder](https://www.youtube.com/watch?v=0RcaL4LVlss)  
+
+[Did they just break quantum physics?  Sabine Hossenfelder](https://www.youtube.com/watch?v=QBO531i5POM)   
+
+---

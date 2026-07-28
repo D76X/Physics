@@ -1,11 +1,8 @@
 # Experiments
 
----
-
 # The double slit experiment
 
 [You probably misunderstand the double slit experiment Sabine Hossenfelder](https://www.youtube.com/watch?v=npc6Mn2CZV8&t=303s)  
-
 
 ---
 
@@ -32,3 +29,4 @@
 [The nature of superposition. Mach-Zehnder interferometer](https://youtu.be/CR-eOhdxbes?si=DeWxWeKsjmdL9xvE) 
 
 ---
+
