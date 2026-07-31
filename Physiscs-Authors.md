@@ -83,6 +83,8 @@
 
 # [PhysicsExplained](https://www.youtube.com/@PhysicsExplainedVideos) 
 
+[Where Does Light ACTUALLY Come From? Physics Explained](https://www.youtube.com/watch?v=4p7JJ6VPnTM)  
+
 [Why Time Only Goes One Way Physics Explained](https://www.youtube.com/watch?v=oW1swU54CiM)
 
 [Mass Increases with Speed… Right? Physics Explained](https://www.youtube.com/watch?v=RmhartBBfaw&t=12s)  
