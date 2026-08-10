@@ -76,12 +76,11 @@
 
 [Quantum before Planck Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=a-hga-X9aKo)    
 
-
 ---
 
-# PhysicsExplained
+# Physics Explained
 
-# [PhysicsExplained](https://www.youtube.com/@PhysicsExplainedVideos) 
+# [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
 
 [Where Does Light ACTUALLY Come From? Physics Explained](https://www.youtube.com/watch?v=4p7JJ6VPnTM)  
 
@@ -107,6 +106,8 @@
 
 [Why Can’t You Cut a Magnet in Half? Physics Explained](https://www.youtube.com/watch?v=YqxrlunKCaU&t=3s)  
 
+[Why Quantum Gravity Doesn't Work Physics Explained](https://www.youtube.com/watch?v=yTEPm5d6mrI&t=20s)   
+
 ---
 
 # Abide by Reason
@@ -129,7 +130,9 @@
 
 ## See the Pattern
 
-[Collapsing the Superposition Narrative](https://www.youtube.com/watch?v=tI_ZqrdUigI&t=329s) 
+[Collapsing the Superposition Narrative](https://www.youtube.com/watch?v=tI_ZqrdUigI&t=329s)   
+
+[Replacing the Big Bang Is Harder Than You Think See the Pattern ](https://www.youtube.com/watch?v=NKoWo8xGT6A)  
 
 ---
 
