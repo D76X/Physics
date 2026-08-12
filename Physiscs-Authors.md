@@ -33,11 +33,15 @@
 
 [Physicists Just Linked This 160 Year-Old Math Problem To Black Holes Sabine Hossenfelder](https://www.youtube.com/watch?v=1YvOPoALVGY&t=123s)  
 
-[Gravity From Entropy? \- This Paper Might Change How We See Gravity,  Sabine Hossenfelder](https://www.youtube.com/watch?v=qNt2bhPS9ts&t=74s) 
-
 [This is why light exists Sabine Hossenfelder](https://www.youtube.com/watch?v=0RcaL4LVlss)  
 
 [Did they just break quantum physics?  Sabine Hossenfelder](https://www.youtube.com/watch?v=QBO531i5POM)   
+
+[The Fermi Paradox Just Got Much Worse Sabine Hossenfelder](https://www.youtube.com/watch?v=s-MgHZ_oGl0)   
+
+## Entropy and Time
+
+[Gravity From Entropy? \- This Paper Might Change How We See Gravity,  Sabine Hossenfelder](https://www.youtube.com/watch?v=qNt2bhPS9ts&t=74s) 
 
 ---
 
@@ -123,8 +127,6 @@
 # Physics with Elliot
 
 [This function doesn't exist. So why is it everywhere in physics? Physics with Elliot](https://www.youtube.com/watch?v=eAkOrWJEWxk&t=1s)  
-
----
 
 ---
 
