@@ -72,6 +72,20 @@
 
 ---
 
+## [Richard Behiel](https://www.youtube.com/@RichBehiel)
+
+[Complex Numbers in Quantum Mechanics Richard Behiel](https://www.youtube.com/watch?v=qtIsYbYdzCI)  
+
+[Bell's Theorem, a Glitch in Reality Richard Behiel](https://www.youtube.com/watch?v=g69cW_Xt4EM)  
+
+---
+
+## [Shots In The Quark](https://www.youtube.com/@shotsinthequark)  
+
+[Gödel tried rotating the universe and it broke time Shots In The Quark](https://www.youtube.com/watch?v=QS1g_K2RNHA)  
+
+---
+
 ## [Dr. Jorge S. Diaz](https://www.youtube.com/@jkzero)
 
 [Heisenberg’s Matrix Mechanics: The Genesis](https://www.youtube.com/watch?v=_lC6-RUI7PQ&t=373s)
@@ -80,11 +94,15 @@
 
 [Quantum before Planck Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=a-hga-X9aKo)    
 
+[Quantum theory of the Zeeman effect Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=DetAXY2cpzM)  
+
 ---
 
 # Physics Explained
 
 # [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
+
+[Why Quantum Gravity Doesn't Work Physics Explained](https://www.youtube.com/watch?v=yTEPm5d6mrI&t=25s)  
 
 [Where Does Light ACTUALLY Come From? Physics Explained](https://www.youtube.com/watch?v=4p7JJ6VPnTM)  
 

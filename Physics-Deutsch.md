@@ -1,5 +1,7 @@
 # Weltall und das Leben
 
+[Why matter doesn't collapse • Pauli's brilliant rule | Stefan Heusler Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=kT2Xg9q1Rek)   
+
 [Schrödingergleichung in Animationen visualisiert • vAzS (127) | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=f10DjdezijE)   
 
 [Schrödingergleichung verstehen • Herleitung stationär / zeitabhängig • vAzS (126) | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=aQWoUUtKgtw)   
