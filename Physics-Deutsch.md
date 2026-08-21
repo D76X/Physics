@@ -8,6 +8,10 @@
 
 [Grenzen, Fortschritte und Modelle • Simulationen in der Fusionsforschung | Hartmut Zohm Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=KNrOVUKt0Gk)  
 
+[E = mc² doesn't apply everywhere • Time and massless particles #vAzS014 remastered | Josef M. Gaßner Urknall, Weltall und das Leben Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=uGb4a5Jov_w)   
+
+[Understanding the Periodic Table: Why Everything Is Made of Standing Waves | Stefan HeuslerUrknall, Weltall und das Leben Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=Ijk8-ruS12g&t=3s)   
+
 ---
 
 # Quantomekanik
