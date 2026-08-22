@@ -154,6 +154,10 @@
 
 [Replacing the Big Bang Is Harder Than You Think See the Pattern ](https://www.youtube.com/watch?v=NKoWo8xGT6A)  
 
+[What Would It Take to Replace the Big Bang? See the Pattern](https://www.youtube.com/watch?v=NKoWo8xGT6A&t=28s)  
+
+[The Question Every Cosmology Has to Answer See the Pattern](https://www.youtube.com/watch?v=FNDbYEdG0mg&t=5s)  
+
 ---
 
 ## DrPhysicsA
