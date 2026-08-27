@@ -102,6 +102,8 @@
 
 # [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
 
+[Do We ACTUALLY Know What’s Inside the Nucleus? Physics Explained](https://www.youtube.com/watch?v=BLUlTsdPEwY)  
+
 [Why Quantum Gravity Doesn't Work Physics Explained](https://www.youtube.com/watch?v=yTEPm5d6mrI&t=25s)  
 
 [Where Does Light ACTUALLY Come From? Physics Explained](https://www.youtube.com/watch?v=4p7JJ6VPnTM)  
