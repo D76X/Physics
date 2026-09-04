@@ -1,5 +1,13 @@
 # Weltall und das Leben
 
+[Kann sich leerer Raum krümmen? Allgemeine Relativitätstheorie #vAzS017 Remastered | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=00hSjdOQf28)   
+
+[Unsichtbare Kräfte: Lagrangepunkte und Potentiale #vAzS007 Remastered | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=iqqDSkTFSqE)   
+
+[Wie vergeht Zeit? Experimente zum Gammafaktor sprengen unsere Intuition #vAzS013 | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=xcB6TZsh4Zg&t=1s)   
+
+[Warum Materie nicht kollabiert • Paulis geniale Regel | Stefan Heusler Urknall, Weltall und das Leben](https://youtu.be/kT2Xg9q1Rek?si=0kSYXrMsvW13ctQh)  
+
 [Why matter doesn't collapse • Pauli's brilliant rule | Stefan Heusler Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=kT2Xg9q1Rek)   
 
 [Schrödingergleichung in Animationen visualisiert • vAzS (127) | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=f10DjdezijE)   
