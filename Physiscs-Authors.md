@@ -88,6 +88,8 @@
 
 ## [Dr. Jorge S. Diaz](https://www.youtube.com/@jkzero)
 
+[When helium broke quantum theory Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=EqgbfdesMG4)   
+
 [Heisenberg’s Matrix Mechanics: The Genesis](https://www.youtube.com/watch?v=_lC6-RUI7PQ&t=373s)
 
 [Faraday's last experiment Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=dM5xWIsNbR4)   
