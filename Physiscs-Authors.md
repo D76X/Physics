@@ -156,6 +156,8 @@
 
 ## See the Pattern
 
+[The Strange Machine That Led Maxwell to Light See the Pattern](https://www.youtube.com/watch?v=qIOTPqRjSh4)  
+
 [Collapsing the Superposition Narrative](https://www.youtube.com/watch?v=tI_ZqrdUigI&t=329s)   
 
 [Replacing the Big Bang Is Harder Than You Think See the Pattern ](https://www.youtube.com/watch?v=NKoWo8xGT6A)  
