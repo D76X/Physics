@@ -1,5 +1,11 @@
 # Weltall und das Leben
 
+[Time Traps in Space Travel • Space-Time Diagrams #vAzS016 Remastered | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=3twQKNQjKow)    
+
+[Expansion des Universums? • Vater des Urknalls: Georges Lemaître | Hans-Joachim Blome Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=FcG5CfnscOE)    
+
+[Einsteins Feldgleichung verstehen: Tensor und Metrik #vAzS018 Remastered | Josef M. Gaßner Urknall, Weltall und das Leben Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=-ZCMDknvio4)  
+
 [Von Newton bis Einstein • Rätsel und Methoden der Himmelsmechanik | Alexander Krivov Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=FXteQtYN9eE)  
 
 [Geometrie des Quanten-Spins • Möbiusband, Blochkugel und 720 Grad im Hilbert-Raum | Stefan HeuslerUrknall, Weltall und das Leben](https://www.youtube.com/watch?v=QeN7T9wCA4U&t=3s)  
