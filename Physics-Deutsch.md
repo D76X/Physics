@@ -1,5 +1,7 @@
 # Weltall und das Leben
 
+[Offenes Rätsel der Quantenwelt: Kollaps der Wellenfunktion • Dichtematrix #vAzS133 | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=r05_AlcLzzM)    
+
 [Von Kohlenstoff zu Silizium • Neue Detektoren für das Universum | Martin Roth Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=KCS9rUWwERE)  
 
 [Visualisierung der Heisenbergschen Unbestimmtheitsrelation • Schleier der Quanten | Stefan Heusler Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=JUHJ9a6H4ZA)   
