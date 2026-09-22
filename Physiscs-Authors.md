@@ -104,6 +104,8 @@
 
 # [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
 
+[What Stops Light From Becoming a Black Hole? Physics Explained](https://www.youtube.com/watch?v=gDcWagTBbuU)  
+
 [What Quantum Uncertainty ACTUALLY Means Physics Explained](https://www.youtube.com/watch?v=0ItWcNT2BWI)  
 
 [Do We ACTUALLY Know What’s Inside the Nucleus? Physics Explained](https://www.youtube.com/watch?v=BLUlTsdPEwY)  

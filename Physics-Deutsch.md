@@ -1,5 +1,7 @@
 # Weltall und das Leben
 
+[Quantenmechanik verstehen • Sprache der Atome • Einstieg in Schrödingers Katze | Stefan Heusler Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=IDltAhF9sfI)  
+
 [Offenes Rätsel der Quantenwelt: Kollaps der Wellenfunktion • Dichtematrix #vAzS133 | Josef M. Gaßner Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=r05_AlcLzzM)    
 
 [Von Kohlenstoff zu Silizium • Neue Detektoren für das Universum | Martin Roth Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=KCS9rUWwERE)  
