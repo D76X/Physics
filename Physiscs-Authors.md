@@ -104,6 +104,8 @@
 
 # [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
 
+[The Simple Idea Behind Physics’ Most Terrifying Equation Physics Explained](https://www.youtube.com/watch?v=eQ-fl8PdSrU)  
+
 [What Stops Light From Becoming a Black Hole? Physics Explained](https://www.youtube.com/watch?v=gDcWagTBbuU)  
 
 [What Quantum Uncertainty ACTUALLY Means Physics Explained](https://www.youtube.com/watch?v=0ItWcNT2BWI)  
