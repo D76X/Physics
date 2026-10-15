@@ -156,6 +156,8 @@
 
 [This function doesn't exist. So why is it everywhere in physics? Physics with Elliot](https://www.youtube.com/watch?v=eAkOrWJEWxk&t=1s)  
 
+[This physics problem is 200 years old. I found a simpler solution Physics with Elliot](https://www.youtube.com/watch?v=Kk6xPhhiTQI)  
+
 ---
 
 ## See the Pattern

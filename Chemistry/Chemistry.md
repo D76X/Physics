@@ -1,3 +1,9 @@
+# Chemistry
+
+[General Chemistry – Full University Course freeCodeCamp.org](https://www.youtube.com/watch?v=6OV3tmt9uhs)  
+
+---
+
 # Three Twentysix
 
 [THIS is how acids and bases REALLY work! Three Twentysix](https://www.youtube.com/watch?v=0PndgUamMTU)  
