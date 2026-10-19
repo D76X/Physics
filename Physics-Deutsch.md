@@ -38,6 +38,8 @@
 
 [Understanding the Periodic Table: Why Everything Is Made of Standing Waves | Stefan HeuslerUrknall, Weltall und das Leben Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=Ijk8-ruS12g&t=3s)   
 
+[Gravitationslinsen • Fata Morgana am Sternenhimmel? | Karl-Heinz Lotze Urknall, Weltall und das Leben](https://www.youtube.com/watch?v=3ZVLeIGd5Q4)   
+
 ---
 
 # Quantomekanik
