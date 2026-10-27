@@ -104,6 +104,8 @@
 
 # [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
 
+[Why the Shortest Path Takes the Longest Time Physics Explained](https://www.youtube.com/watch?v=a-83Cudm4vA&t=12s)   
+
 [The Simple Idea Behind Physics’ Most Terrifying Equation Physics Explained](https://www.youtube.com/watch?v=eQ-fl8PdSrU)  
 
 [What Stops Light From Becoming a Black Hole? Physics Explained](https://www.youtube.com/watch?v=gDcWagTBbuU)  
