@@ -4,8 +4,11 @@
 
 [Ben Krasnow](https://benkrasnow.blogspot.com/) 
 
-[Identify chemicals with radio frequencies - Nuclear Quadrupole Resonance (MRI without magnets) Applied Science](https://www.youtube.com/watch?v=JO_EHceV9sk&t=14s)
 [Engineering magnetics - practical introduction to BH curve Applied Science](https://www.youtube.com/watch?v=4UFKl9fULkA)  
+
+[Identify chemicals with radio frequencies - Nuclear Quadrupole Resonance (MRI without magnets) Applied Science](https://www.youtube.com/watch?v=JO_EHceV9sk&t=14s)
+
+[3D-printed, alcohol-powered, Einstein-Szilard absorption refrigerator Applied Science](https://www.youtube.com/watch?v=doZ5e4YVdEs&t=5s)  
 
 ---
 
