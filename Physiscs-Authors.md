@@ -88,6 +88,8 @@
 
 ## [Dr. Jorge S. Diaz](https://www.youtube.com/@jkzero)
 
+[This spinning ball led to spin Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=Yvzqw74__ms)  
+
 [When helium broke quantum theory Dr. Jorge S. Diaz](https://www.youtube.com/watch?v=EqgbfdesMG4)   
 
 [Heisenberg’s Matrix Mechanics: The Genesis](https://www.youtube.com/watch?v=_lC6-RUI7PQ&t=373s)
@@ -103,6 +105,8 @@
 # Physics Explained
 
 # [Physics Explained](https://www.youtube.com/@PhysicsExplainedVideos) 
+
+[What Happens If You Put Two Mirrors in a Perfect Vacuum?Physics Explained](https://www.youtube.com/watch?v=N15dFPZbGSc)  
 
 [Why the Shortest Path Takes the Longest Time Physics Explained](https://www.youtube.com/watch?v=a-83Cudm4vA&t=12s)   
 
