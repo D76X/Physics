@@ -195,3 +195,11 @@
 [How 's Equations (and Quaternions) Led to Vector Analysis](https://www.youtube.com/watch?v=M12CJIuX8D4&t=518s) 
 
 ---
+
+# π in Motion
+
+[π in Motion](https://www.youtube.com/@Pi_in_Motion)  
+
+[Why Does Nature Follow the Principle of Least Action? π in Motion](https://www.youtube.com/watch?v=8ak2_QkZa4g)  
+
+---
