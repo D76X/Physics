@@ -16,4 +16,6 @@
 
 [Topology, Explained by Mr. Mathematik](https://www.youtube.com/playlist?list=PLIIE5sk6Kacc)  
 
+[What is a Manifold? Mr. Mathematik and Mr. Physik](https://www.youtube.com/watch?v=9ufusP4q2I4&t=350s)  
+
 ---
